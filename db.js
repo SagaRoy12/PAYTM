@@ -1,5 +1,5 @@
 const { default: mongoose, Types } = require("mongoose");
-mongoose.connect('mongodb+srv://officialworksagar24x7:jbe81IeRfhHLHotv@cluster0.27mwusz.mongodb.net/')
+mongoose.connect('mongodb+srv://officialworksagar24x7:.........@cluster0.27mwusz.mongodb.net/')
 
 const UserSchema = new mongoose.Schema({
     firstName: {
